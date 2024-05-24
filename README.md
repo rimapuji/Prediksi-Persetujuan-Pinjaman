@@ -1,12 +1,3 @@
-# Prediksi Persetujuan Pinjaman Menggunakan Machine Learning
-
-```bash
-Team :
-Indi Alya Putri 
-Rima Puji Lestari 
-Savariana Rika Anugrahaini
-Fitriyani
-```
 
 ![image](https://github.com/rimapuji/Prediksi-Persetujuan-Pinjaman/assets/118242692/47b1f971-ff88-4cbf-be52-93997763839b)
 <hr>
